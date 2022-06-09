@@ -4,7 +4,7 @@
 https://drive.google.com/file/d/156MPlSULg8rkZzr3zcvXxVspbPkynLPZ/view?usp=sharing
 
 <p align="center">
-    <img src = /practice-1/src/main/recursos/exercise1.png width="350">
+    <img src = /src/main/recursos/exercise1.png width="350">
 </p>
 
 ### Ejercicio Tienda de peliculas -Diagrama de Caso de Uso
