@@ -18,16 +18,26 @@ class StringHelperTest {
 
     @Test
     void stringHelper_empty() {
-        assertEquals("", StringHelper.stringHelper(""));
+        assertEquals("", StringHelper.reverse(""));
+        assertEquals("", StringHelper.encoder(""));
     }
     @Test
     void stringHelper_string() {
-        assertEquals("aifos", StringHelper.stringHelper("sofia"));
-        assertEquals("oicor", StringHelper.stringHelper("rocio"));
-        assertEquals("ana", StringHelper.stringHelper("ana"));
+        assertEquals("aifos", StringHelper.reverse("sofia"));
+        assertEquals("oicor", StringHelper.reverse("rocio"));
+        assertEquals("ana", StringHelper.reverse("ana"));
+        assertEquals("arual", StringHelper.reverse("laura"));
     }
     @Test
     void stringHelper_stringWithSpaces() {
-        assertEquals("oicor aifos", StringHelper.stringHelper("sofia rocio"));
+        assertEquals("oicor aifos", StringHelper.reverse("sofia rocio"));
+    }
+
+    @Test
+    void stringHelper_encoder() {
+        assertEquals("s4f31", StringHelper.encoder("sofia"));
+        assertEquals("r4c34", StringHelper.encoder("rocio"));
+        assertEquals("1n1", StringHelper.encoder("ana"));
+        assertEquals("l15r1", StringHelper.encoder("laura"));
     }
 }
