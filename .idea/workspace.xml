@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a138512-6ee0-4eaa-95b4-c3d41c089bd7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ironhack/practice_1/Classes/StringHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ironhack/practice_1/Classes/StringHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ironhack/practice_1/Classes/StringHelperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ironhack/practice_1/Classes/StringHelperTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="0a138512-6ee0-4eaa-95b4-c3d41c089bd7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,8 +48,8 @@
       <recent name="com.ironhack.practice_1.Classes" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StringHelperTest.stringHelper_encoder">
-    <configuration name="CalculateAreaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.StringHelperTest">
+    <configuration name="StringHelperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="practice-1" />
       <extension name="coverage">
         <pattern>
@@ -61,7 +58,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.ironhack.practice_1.Classes" />
-      <option name="MAIN_CLASS_NAME" value="com.ironhack.practice_1.Classes.CalculateAreaTest" />
+      <option name="MAIN_CLASS_NAME" value="com.ironhack.practice_1.Classes.StringHelperTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StringHelperTest" />
         <item itemvalue="JUnit.StringHelperTest.stringHelper_encoder" />
         <item itemvalue="JUnit.StringHelperTest.stringHelper_stringWithSpaces" />
         <item itemvalue="JUnit.StringHelperTest.stringHelper_string" />
         <item itemvalue="JUnit.StringHelperTest.stringHelper" />
-        <item itemvalue="JUnit.CalculateAreaTest" />
       </list>
     </recent_temporary>
   </component>
