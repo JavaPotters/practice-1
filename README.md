@@ -1,4 +1,4 @@
-# practice-1
+# Practice I y II - Team JavaPotters
 
 ### Ejercicio Universidad - Diagrama de Clases
 https://drive.google.com/file/d/156MPlSULg8rkZzr3zcvXxVspbPkynLPZ/view?usp=sharing
