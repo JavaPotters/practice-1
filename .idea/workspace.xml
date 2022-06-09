@@ -5,15 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a138512-6ee0-4eaa-95b4-c3d41c089bd7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2AKYBWcbick6n5pNlb14Y8Iytyu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,9 +38,110 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": ""
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ironhack.practice_1.Classes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculateAreaTest.calculateArea_positiveValues">
+    <configuration name="CalculateAreaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ironhack.practice_1.Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ironhack.practice_1.Classes" />
+      <option name="MAIN_CLASS_NAME" value="com.ironhack.practice_1.Classes.CalculateAreaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculateAreaTest.calculateArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ironhack.practice_1.Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ironhack.practice_1.Classes" />
+      <option name="MAIN_CLASS_NAME" value="com.ironhack.practice_1.Classes.CalculateAreaTest" />
+      <option name="METHOD_NAME" value="calculateArea" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculateAreaTest.calculateArea_negativeValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ironhack.practice_1.Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ironhack.practice_1.Classes" />
+      <option name="MAIN_CLASS_NAME" value="com.ironhack.practice_1.Classes.CalculateAreaTest" />
+      <option name="METHOD_NAME" value="calculateArea_negativeValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculateAreaTest.calculateArea_noValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ironhack.practice_1.Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ironhack.practice_1.Classes" />
+      <option name="MAIN_CLASS_NAME" value="com.ironhack.practice_1.Classes.CalculateAreaTest" />
+      <option name="METHOD_NAME" value="calculateArea_noValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculateAreaTest.calculateArea_positiveValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ironhack.practice_1.Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ironhack.practice_1.Classes" />
+      <option name="MAIN_CLASS_NAME" value="com.ironhack.practice_1.Classes.CalculateAreaTest" />
+      <option name="METHOD_NAME" value="calculateArea_positiveValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculateAreaTest.calculateArea_positiveValues" />
+        <item itemvalue="JUnit.CalculateAreaTest.calculateArea_noValues" />
+        <item itemvalue="JUnit.CalculateAreaTest" />
+        <item itemvalue="JUnit.CalculateAreaTest.calculateArea_negativeValues" />
+        <item itemvalue="JUnit.CalculateAreaTest.calculateArea" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
