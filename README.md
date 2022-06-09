@@ -10,5 +10,13 @@ https://drive.google.com/file/d/156MPlSULg8rkZzr3zcvXxVspbPkynLPZ/view?usp=shari
 ### Ejercicio Tienda de peliculas -Diagrama de Caso de Uso
 https://drive.google.com/file/d/19ylY--WRcaMslLDMNzGH7GGbidevF2eG/view?usp=sharing
 
+<p align="center">
+    <img src = /src/main/recursos/exercise2.png width="350">
+</p>
+
 ### Ejercicio Vuelos - Diagrama de Clases
 https://drive.google.com/file/d/1_kCEwO6TVN3psuEpf5f7eVWViLk2b4jM/view?usp=sharing
+
+<p align="center">
+    <img src = /src/main/recursos/exercise3.png width="350">
+</p>
